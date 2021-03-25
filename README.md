@@ -1,3 +1,3 @@
 # RLI_Prints
 
-To view a 3D model check out fullsetup.STL you will need a 3D viewer on your computer, to obtain the printable parts check the parts folder.
+To view a full 3D model of the optics rail check out fullsetup_model.STL, to obtain the individual printable parts check the parts folder.
